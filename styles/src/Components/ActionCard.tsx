@@ -103,9 +103,11 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 25,
     fontWeight: '800',
+    color: '#080808',
   },
   description: {
     fontSize: 15,
+    color: '#080808',
   },
   footerContainer: {
     paddingVertical: 20,
